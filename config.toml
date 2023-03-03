@@ -325,11 +325,11 @@ uglyURLs = false
     # 3. posts     List of post’s summary
     # 4. page      Normal page/post
 
-    homeLayout = "page"
+    homeLayout = "poetry"
 
     ## Poetry
     # Verse (Markdown supported)
-    homePoetry = ["I want to find a door and then go out."]
+    homePoetry = ["I want to find that door and then go out."]
     # Padding of links at the bottom
     # Unit: em
     homeLinksPadding = 1
@@ -1136,7 +1136,7 @@ uglyURLs = false
 
     enablePostCopyright = true
 
-    displayPostCopyright = true
+    displayPostCopyright = false
     # Note: *global settings*
     #       `displayCopyright` in post’s Front Matter
     #       has a higher priority than here
