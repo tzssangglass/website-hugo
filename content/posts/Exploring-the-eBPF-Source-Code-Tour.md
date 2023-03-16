@@ -8,6 +8,7 @@ keywords:
 - 内核
 - XDP
 tags: [eBPF, Linux, 内核, XDP]
+categories: [eBPF]
 description: 这篇文章是关于 Linux 内核中的 eBPF 源代码的介绍。经过一系列的跟踪和解释，展示了如何使用 eBPF 进行数据包过滤和转发。文章中还介绍了 eBPF 的一些基本概念和工具，如 eBPF 指令集、clang、bpftool 等。同时，文章还介绍了 eBPF 程序在内核中的分配和更新，以及如何使用 eBPF 程序进行 XDP 和 TC 等网络操作。
 ---
 
